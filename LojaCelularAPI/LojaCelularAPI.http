@@ -1,0 +1,6 @@
+@LojaCelularAPI_HostAddress = http://localhost:5240
+
+GET {{LojaCelularAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
